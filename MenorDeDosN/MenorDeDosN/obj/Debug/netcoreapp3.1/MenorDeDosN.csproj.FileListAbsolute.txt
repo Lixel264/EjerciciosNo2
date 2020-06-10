@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\bin\Debug\netcoreapp3.1\MenorDeDosN.exe
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\bin\Debug\netcoreapp3.1\MenorDeDosN.deps.json
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\bin\Debug\netcoreapp3.1\MenorDeDosN.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\bin\Debug\netcoreapp3.1\MenorDeDosN.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\bin\Debug\netcoreapp3.1\MenorDeDosN.dll
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\bin\Debug\netcoreapp3.1\MenorDeDosN.pdb
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\obj\Debug\netcoreapp3.1\MenorDeDosN.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\obj\Debug\netcoreapp3.1\MenorDeDosN.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\obj\Debug\netcoreapp3.1\MenorDeDosN.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\obj\Debug\netcoreapp3.1\MenorDeDosN.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\obj\Debug\netcoreapp3.1\MenorDeDosN.dll
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\obj\Debug\netcoreapp3.1\MenorDeDosN.pdb
+C:\Users\WANDA\Desktop\C#\MenorDeDosN\MenorDeDosN\obj\Debug\netcoreapp3.1\MenorDeDosN.genruntimeconfig.cache

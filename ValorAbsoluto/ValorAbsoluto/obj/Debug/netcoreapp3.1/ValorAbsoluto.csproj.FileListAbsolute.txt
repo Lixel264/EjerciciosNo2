@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.exe
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.deps.json
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.dll
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\bin\Debug\netcoreapp3.1\ValorAbsoluto.pdb
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.dll
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.pdb
+C:\Users\WANDA\Desktop\C#\ValorAbsoluto\ValorAbsoluto\obj\Debug\netcoreapp3.1\ValorAbsoluto.genruntimeconfig.cache

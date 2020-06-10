@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\bin\Debug\netcoreapp3.1\Caracter2.exe
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\bin\Debug\netcoreapp3.1\Caracter2.deps.json
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\bin\Debug\netcoreapp3.1\Caracter2.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\bin\Debug\netcoreapp3.1\Caracter2.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\bin\Debug\netcoreapp3.1\Caracter2.dll
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\bin\Debug\netcoreapp3.1\Caracter2.pdb
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\obj\Debug\netcoreapp3.1\Caracter2.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\obj\Debug\netcoreapp3.1\Caracter2.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\obj\Debug\netcoreapp3.1\Caracter2.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\obj\Debug\netcoreapp3.1\Caracter2.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\obj\Debug\netcoreapp3.1\Caracter2.dll
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\obj\Debug\netcoreapp3.1\Caracter2.pdb
+C:\Users\WANDA\Desktop\C#\Caracter2\Caracter2\obj\Debug\netcoreapp3.1\Caracter2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\bin\Debug\netcoreapp3.1\ParesDescendente.exe
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\bin\Debug\netcoreapp3.1\ParesDescendente.deps.json
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\bin\Debug\netcoreapp3.1\ParesDescendente.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\bin\Debug\netcoreapp3.1\ParesDescendente.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\bin\Debug\netcoreapp3.1\ParesDescendente.dll
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\bin\Debug\netcoreapp3.1\ParesDescendente.pdb
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\obj\Debug\netcoreapp3.1\ParesDescendente.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\obj\Debug\netcoreapp3.1\ParesDescendente.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\obj\Debug\netcoreapp3.1\ParesDescendente.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\obj\Debug\netcoreapp3.1\ParesDescendente.dll
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\obj\Debug\netcoreapp3.1\ParesDescendente.pdb
+C:\Users\WANDA\Desktop\C#\ParesDescendente\ParesDescendente\obj\Debug\netcoreapp3.1\ParesDescendente.genruntimeconfig.cache
